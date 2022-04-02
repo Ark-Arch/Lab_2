@@ -1,0 +1,16 @@
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\Lab_2.csproj.AssemblyReference.cache
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\Lab_2.AssemblyInfo.cs
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\bin\Debug\net5.0\Lab_2.exe
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\bin\Debug\net5.0\Lab_2.deps.json
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\bin\Debug\net5.0\Lab_2.runtimeconfig.json
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\bin\Debug\net5.0\Lab_2.runtimeconfig.dev.json
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\bin\Debug\net5.0\Lab_2.dll
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\bin\Debug\net5.0\ref\Lab_2.dll
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\bin\Debug\net5.0\Lab_2.pdb
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\Lab_2.dll
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\ref\Lab_2.dll
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\Lab_2.pdb
+C:\Users\Standage Nigeria\Desktop\C_sharp\WellaHealth\WellaHealth_Assignments\Lab_2\obj\Debug\net5.0\Lab_2.genruntimeconfig.cache
